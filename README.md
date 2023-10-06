@@ -1,5 +1,5 @@
 # Belajar-kolaborasi
 
-
-jadi di sini akan melakukan perubahan  kembali kepada file readme.md, sehingga @hasan, akan meReviews
-
+<br> Jadi setelah kode ni di perbaiki, ini menjadi lebih clean  
+dan bergitu juga dengan detail nya <br>  
+ Terima kasih
